@@ -11,6 +11,7 @@
            <port if_type = "uvm_analysis_port" txn_type = "anonymous"> 
               agt_ap 
               <connection>  uvm_test_top.env.cov.cov_export  </connection> 
+              <connection>  uvm_test_top.env.sb.sb_export  </connection> 
            </port> 
   
            <instance type=" FIFO_driver "> 
@@ -63,6 +64,41 @@
   
            <instance type=" uvm_tlm_analysis_fifo #(T) "> 
               cov_fifo 
+  
+              <imp if_type = "uvm_analysis_imp" txn_type = "anonymous"> 
+                 analysis_export 
+              </imp> 
+  
+              <port if_type = "uvm_analysis_port" txn_type = "anonymous"> 
+                 get_ap 
+              </port> 
+  
+              <imp if_type = "uvm_get_peek_imp" txn_type = "anonymous"> 
+                 get_peek_export 
+              </imp> 
+  
+              <port if_type = "uvm_analysis_port" txn_type = "anonymous"> 
+                 put_ap 
+              </port> 
+  
+              <imp if_type = "uvm_put_imp" txn_type = "anonymous"> 
+                 put_export 
+              </imp> 
+           </instance> 
+  
+        </instance> 
+  
+  
+        <instance type=" FIFO_scoreboard "> 
+           sb 
+  
+           <export if_type = "uvm_analysis_export" txn_type = "anonymous"> 
+              sb_export 
+              <connection>  uvm_test_top.env.sb.sb_fifo.analysis_export  </connection> 
+           </export> 
+  
+           <instance type=" uvm_tlm_analysis_fifo #(T) "> 
+              sb_fifo 
   
               <imp if_type = "uvm_analysis_imp" txn_type = "anonymous"> 
                  analysis_export 

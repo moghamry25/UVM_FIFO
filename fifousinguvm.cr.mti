@@ -102,22 +102,6 @@ QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 Top level modules:
 	--none--
 
-} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_env.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_env.sv
-QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
--- Compiling package FIFO_env
--- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
--- Importing package FIFO_agent
--- Importing package FIFO_driver
--- Importing package FIFO_config
--- Importing package FIFO_sequence_item
--- Importing package FIFO_sequencer
--- Importing package FIFO_monitor
--- Importing package FIFO_coverage
-** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_env.sv(7): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
-
-Top level modules:
-	--none--
-
 } {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_enable.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_enable.sv
 QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
 -- Compiling package FIFO_sequence_write_enable

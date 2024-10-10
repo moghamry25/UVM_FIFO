@@ -9,6 +9,7 @@ FIFO_sequence_write_read_enable.sv
 FIFO_sequence_write_read_unable.sv
 FIFO_sequence_random.sv
 FIFO_coverage.sv
+FIFO_scoreboard.sv
 FIFO_sequencer.sv
 FIFO_monitor.sv
 FIFO_driver.sv

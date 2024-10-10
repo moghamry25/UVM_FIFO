@@ -59,3 +59,122 @@
 # End of Stack Trace
 
 
+# Current time Thu Oct 10 18:44:45 2024
+# Program = vsim
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = 99d18aae03b903020083b878a6f2cf5a
+# End of Stack Trace
+
+
+# Current time Thu Oct 10 19:01:14 2024
+# Program = vsim
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = 99d18aae03b903020083b878a6f2cf5a
+# End of Stack Trace
+
+
+# Current time Thu Oct 10 19:08:29 2024
+# Program = vsim
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = 99d18aae03b903020083b878a6f2cf5a
+# End of Stack Trace
+
+
+# Current time Thu Oct 10 19:13:32 2024
+# Program = vsim
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = 99d18aae03b903020083b878a6f2cf5a
+# End of Stack Trace
+
+
+# Current time Thu Oct 10 19:16:13 2024
+# Program = vsim
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = 99d18aae03b903020083b878a6f2cf5a
+# End of Stack Trace
+
+
+# Current time Thu Oct 10 19:21:26 2024
+# Program = vsim
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = 99d18aae03b903020083b878a6f2cf5a
+# End of Stack Trace
+
+
+# Current time Thu Oct 10 19:28:18 2024
+# Program = vsim
+# Id = "2021.1"
+# Version = "2021.01"
+# Date = "Jan 19 2021"
+# Platform = win64
+# Signature = 99d18aae03b903020083b878a6f2cf5a
+# 0    0x00000001423bba79: '<unknown (@0x1423bba79)>'
+# 1    0x0000000140b42039: '<unknown (@0x140b42039)>'
+# 2    0x0000000140b4334b: '<unknown (@0x140b4334b)>'
+# 3    0x0000000140b43d31: '<unknown (@0x140b43d31)>'
+# 4    0x0000000140b52a8f: '<unknown (@0x140b52a8f)>'
+# 5    0x0000000140b52875: '<unknown (@0x140b52875)>'
+# 6    0x0000000140b52c77: '<unknown (@0x140b52c77)>'
+# 7    0x0000000140b3ab4e: '<unknown (@0x140b3ab4e)>'
+# 8    0x0000000140b39a85: '<unknown (@0x140b39a85)>'
+# 9    0x00000001409e5461: '<unknown (@0x1409e5461)>'
+# 10   0x00000001409ccac6: '<unknown (@0x1409ccac6)>'
+# 11   0x0000000140c46b10: '<unknown (@0x140c46b10)>'
+# 12   0x000000006c565221: 'TclInvokeStringCommand + 0xc1' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 13   0x000000006c5670fe: 'TclNRRunCallbacks + 0x5e' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 14   0x000000006c56896f: 'Tcl_EvalEx + 0xa2f' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 15   0x000000006c567f63: 'Tcl_EvalEx + 0x23' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 16   0x0000000140f61e08: '<unknown (@0x140f61e08)>'
+# 17   0x000000006c5fb205: 'Tcl_NotifyChannel + 0x165' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 18   0x000000006c68b969: 'Tcl_OpenTcpServer + 0xd69' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 19   0x000000006c61a568: 'Tcl_ServiceEvent + 0xe8' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 20   0x000000006c61a9df: 'Tcl_DoOneEvent + 0x17f' in 'c:\questasim64_2021.1\win64\tcl86t.dll'
+# 21   0x000000014244498c: '<unknown (@0x14244498c)>'
+# 22   0x00000001408cc9db: '<unknown (@0x1408cc9db)>'
+# 23   0x00000001420a9b10: '<unknown (@0x1420a9b10)>'
+# 24   0x00000001420a8937: '<unknown (@0x1420a8937)>'
+# 25   0x0000000142153764: '<unknown (@0x142153764)>'
+# 26   0x00000001423a0c85: '<unknown (@0x1423a0c85)>'
+# 27   0x00000001423b0dea: '<unknown (@0x1423b0dea)>'
+# 28   0x00000001423b091e: '<unknown (@0x1423b091e)>'
+# 29   0x00007ff4f81cef20: 'FIFO_coverage.sv:10'
+# 30   0x00007ff4f81cd92f: 'FIFO_coverage.sv:40'
+# 31   0x00007ff4f81cdaec: 'FIFO_coverage.sv:38'
+# 32   0x00007ff4f819c020: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_registry.svh:66'
+# 33   0x00007ff4f6ee9df9: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_factory.svh:1165'
+# 34   0x00007ff4f819ccba: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_registry.svh:113'
+# 35   0x00007ff4f819d3f6: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_registry.svh:108'
+# 36   0x00007ff4f81e7926: 'FIFO_env.sv:22'
+# 37   0x00007ff4f7cc7b87: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_common_phases.svh:54'
+# 38   0x00007ff4f7cc5566: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:111'
+# 39   0x00007ff4f7cc490e: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:78'
+# 40   0x00007ff4f7cc4e24: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 41   0x00007ff4f7cc4e24: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_topdown_phase.svh:95'
+# 42   0x00007ff4f7ca7199: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1156'
+# 43   0x00007ff4f7ca5f80: 'C:/questasim64_2021.1/win64/../verilog_src/uvm-1.1d/src/base/uvm_phase.svh:1847'
+# 44   0x00000001420b862a: '<unknown (@0x1420b862a)>'
+# 45   0x000000014030e365: '<unknown (@0x14030e365)>'
+# 46   0x00000001400aeff3: '<unknown (@0x1400aeff3)>'
+# 47   0x0000000140353d61: '<unknown (@0x140353d61)>'
+# 48   0x00000001408f4463: '<unknown (@0x1408f4463)>'
+# End of Stack Trace
+
+

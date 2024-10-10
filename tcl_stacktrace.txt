@@ -5,3 +5,48 @@ Trace back: invalid command name "SrcCommon::LoadDBSDialog"
     ("after" script)
   <2:C:/questasim64_2021.1/win64/tk8.6/bgerror.tcl:106: ::tkerror {invalid command name "SrcCommon::LoadDBSDialog"}
   <1:eval:1: ::tk::dialog::error::bgerror {invalid command name "SrcCommon::LoadDBSDialog"}
+Thu Oct 10 19:09:10 +0300 2024
+Trace back: 
+    while executing
+"vsim_kernel CoverageExclusions -user"
+    ("eval" body line 1)
+    invoked from within
+"eval [linsert $_args 0 vsim_kernel CoverageExclusions]"
+    (procedure "Coverage::exclusions" line 25)
+    invoked from within
+"Coverage::exclusions -user"
+    (object "::.main_pane.canalysis.interior.cs.body.notebook.cs.page0.cs.stmt" method "::CovAnalysis::UpdateExclusionList" body line 19)
+    invoked from within
+"$el UpdateExclusionList $cacheUpdate"
+    (procedure "Coverage::UpdateReally" line 39)
+    invoked from within
+"Coverage::UpdateReally 0"
+    ("after" script)
+  <2:C:/questasim64_2021.1/win64/tk8.6/bgerror.tcl:106: ::tkerror {}
+  <1:eval:1: ::tk::dialog::error::bgerror {}
+Thu Oct 10 19:19:12 +0300 2024
+Trace back: ** UI-Msg: (vish-4000) A design must be loaded before the "vsim_break" command can be used.
+    while executing
+".vcop Eval vsim_break"
+    (menu invoke)
+  <2:C:/questasim64_2021.1/win64/tk8.6/bgerror.tcl:106: ::tkerror {** UI-Msg: (vish-4000) A design must be loaded before the "vsim_break" command can be used.}
+  <1:C:/mtitcl/vsim/vsimcmd.tc_:752: ::tk::dialog::error::bgerror {** UI-Msg: (vish-4000) A design must be loaded before the "vsim_break" command can be used.}
+Thu Oct 10 19:29:01 +0300 2024
+Trace back: 
+    while executing
+"vsim_kernel CoverageExclusions -user"
+    ("eval" body line 1)
+    invoked from within
+"eval [linsert $_args 0 vsim_kernel CoverageExclusions]"
+    (procedure "Coverage::exclusions" line 25)
+    invoked from within
+"Coverage::exclusions -user"
+    (object "::.main_pane.canalysis.interior.cs.body.notebook.cs.page0.cs.stmt" method "::CovAnalysis::UpdateExclusionList" body line 19)
+    invoked from within
+"$el UpdateExclusionList $cacheUpdate"
+    (procedure "Coverage::UpdateReally" line 39)
+    invoked from within
+"Coverage::UpdateReally 0"
+    ("after" script)
+  <2:C:/questasim64_2021.1/win64/tk8.6/bgerror.tcl:106: ::tkerror {}
+  <1:proc:24: ::tk::dialog::error::bgerror {}

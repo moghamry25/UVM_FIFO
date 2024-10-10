@@ -17,6 +17,7 @@ reg [max_fifo_addr:0] count;
 always @(posedge clk or negedge rst_n) begin
 	if (!rst_n) begin
 		wr_ptr <= 0;
+		wr_ack <= 0;
 		overflow <= 0;
 		
 	end
