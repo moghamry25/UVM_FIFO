@@ -1,0 +1,175 @@
+D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_coverage.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_coverage.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_coverage
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_coverage.sv(4): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_read_unable.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_read_unable.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_sequence_write_read_unable
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_read_unable.sv(6): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_read_enable.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_read_enable.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_sequence_write_read_enable
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_read_enable.sv(6): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_driver.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_driver.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_driver
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_config
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_driver.sv(5): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO.v {1 {vlog -work work -vopt -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO.v
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_if.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_if.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling interface FIFO_if
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_item.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_item.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_sequence_item
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_item.sv(3): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequencer.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequencer.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_sequencer
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequencer.sv(4): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_config.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_config.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_config
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_config.sv(3): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_test.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_test.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_test
+-- Importing package FIFO_env
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_agent
+-- Importing package FIFO_driver
+-- Importing package FIFO_config
+-- Importing package FIFO_sequence_item
+-- Importing package FIFO_sequencer
+-- Importing package FIFO_monitor
+-- Importing package FIFO_sequence_write_enable
+-- Importing package FIFO_sequence_read_enable
+-- Importing package FIFO_sequence_write_read_enable
+-- Importing package FIFO_sequence_write_read_unable
+-- Importing package FIFO_sequence_reset
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_test.sv(10): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_env.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_env.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_env
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_agent
+-- Importing package FIFO_driver
+-- Importing package FIFO_config
+-- Importing package FIFO_sequence_item
+-- Importing package FIFO_sequencer
+-- Importing package FIFO_monitor
+-- Importing package FIFO_coverage
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_env.sv(7): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_enable.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_enable.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_sequence_write_enable
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_write_enable.sv(6): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_read_enable.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_read_enable.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_sequence_read_enable
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_read_enable.sv(6): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_reset.sv {1 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_reset.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package FIFO_sequence_reset
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_sequence_item
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_sequence_reset.sv(5): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_top.sv {2 {vlog -work work -vopt -sv -stats=none D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_top.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+** Note: (vlog-2286) D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_top.sv(3): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+** Warning: D:/courses/Digital/Verification/Projects/UVM_FIFO/FIFO_top.sv(1): (vlog-13233) Design unit "FIFO_top_sv_unit" already exists and will be overwritten. Overwriting SystemVerilog $unit with different source files.
+-- Compiling package FIFO_top_sv_unit
+-- Importing package FIFO_test
+-- Importing package FIFO_env
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package FIFO_agent
+-- Importing package FIFO_driver
+-- Importing package FIFO_config
+-- Importing package FIFO_sequence_item
+-- Importing package FIFO_sequencer
+-- Importing package FIFO_monitor
+-- Importing package FIFO_sequence_write_enable
+-- Importing package FIFO_sequence_read_enable
+-- Importing package FIFO_sequence_write_read_enable
+-- Importing package FIFO_sequence_write_read_unable
+-- Importing package FIFO_sequence_reset
+-- Compiling module FIFO_top
+
+Top level modules:
+	FIFO_top
+
+} {} {}}
