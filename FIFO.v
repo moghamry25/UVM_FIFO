@@ -36,7 +36,7 @@ always @(posedge clk or negedge rst_n) begin
 			overflow <= 1;
 		else
 			overflow <= 0;
-	endA
+	end
 end
 
 always @(posedge clk or negedge rst_n) begin
